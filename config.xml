@@ -5,7 +5,7 @@
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
     <author email="matthew.eichler@aventinesolutions.nl" href="http://aventinesolutions.nl">
-        Apache Cordova Team
+        Matthew Eichler, Aventine Solutions
     </author>
     <content src="index.html" />
 </widget>
